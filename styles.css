@@ -5,3 +5,9 @@ p {
 span {
   color:red; font-family: Arial;
 }
+
+div {
+    background-color: #336699;
+    height: 50px;
+    width: 500px;
+}
